@@ -100,6 +100,7 @@ Canal, as a MySQL binlog incremental acquisition and parsing tool, can deliver c
 
 ## Similar Open Source & Products
 - [Linkedin Databus](https://github.com/linkedin/databus)
+  - [introduction-to-databus](https://www.slideshare.net/amywtang/introduction-to-databus)
 - [tungsten-replicator](http://code.google.com/p/tungsten-replicator)
 - [open-replicator](http://code.google.com/p/open-replicator)
 	
